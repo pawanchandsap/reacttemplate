@@ -1,2 +1,3 @@
-# reacttemplate
+# Introduction
+
 React Template
